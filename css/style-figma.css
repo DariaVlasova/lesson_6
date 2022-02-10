@@ -1,0 +1,90 @@
+
+@import "null.css";
+@font-face {
+    font-family: 'Circular Std';
+    src: url('../fonts/fonts/CircularStd-Bold.woff2')
+    format('woff2');
+     font-display: swap;  
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Circular Std';
+    src: url('../fonts/fonts/CircularStd-Book.woff2')
+    format('woff2');
+     font-display: swap;  
+    font-weight: 400;
+    font-style: normal;
+}
+.info{
+    display: block;
+    margin: 0px auto;
+    max-width: 1025px;
+    margin-top: 140px;
+    
+}
+h1{
+    font-family: Circular Std;
+font-style: normal;
+font-weight: 400;
+font-size: 65px;
+line-height: 1.26;
+color: #313131;
+text-align: center;
+margin-bottom: 20px;
+}
+.first{
+    font-family: Circular Std;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 1.25;
+text-align: center;
+max-width: 750px;
+color: #5F5F5F;
+display: block;
+margin: 0px auto;
+margin-bottom: 224px;
+}
+h2{
+    font-family: Circular Std;
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 1.29;
+color: #313131;
+opacity: 0.88;
+margin-bottom: 20px;
+}
+.second{
+    font-family: Circular Std;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 1.55;
+color: #5F5F5F;
+max-width: 508px;
+margin-bottom: 125px;
+}
+h6{
+    font-family: Circular Std;
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.27;
+color: #313131;
+opacity: 0.88;
+margin-bottom: 5px;
+}
+.third{
+    font-family: Circular Std;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 1.27;
+color: #B8B8B8;
+margin-bottom: 100px;
+}
+img{
+    margin-bottom: 15px;
+}
